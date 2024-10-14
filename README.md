@@ -10,7 +10,7 @@ A very basic and simple script that allow you to temporarily change the ped.
 | [illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)     | 
 
 | Commands | |
-| ------------- |    
+| ------------- | |:-------------:|   
 | ped    | Open the menu |
 | pedreset | Reset the ped to the normal one  | 
 
