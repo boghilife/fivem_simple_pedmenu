@@ -11,7 +11,7 @@ A very basic and simple script that allow you to temporarily change the ped.
 
 | Commands      |               | 
 | ------------- |:-------------:| 
-| ped      | Open the men | 
+| ped      | Open the menu | 
 | pedreset     |  Reset the ped to the normal one      |
 
 ## IT
@@ -24,3 +24,9 @@ Script molto semplice per cambiare ped temporaneamente in gioco.
 | ------------- |
 | [ox_lib](https://github.com/overextended/ox_lib)     | 
 | [illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)     | 
+
+
+| Commands      |               | 
+| ------------- |:-------------:| 
+| ped      | Apre il menu | 
+| pedreset     |  Resetta il ped a quello normale      |
