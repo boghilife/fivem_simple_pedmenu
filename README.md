@@ -26,7 +26,7 @@ Script molto semplice per cambiare ped temporaneamente in gioco.
 | [illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)     | 
 
 
-| Commands      |               | 
+| Commandi     |  
 | ------------- |:-------------:| 
 | ped      | Apre il menu | 
 | pedreset     |  Resetta il ped a quello normale      |
